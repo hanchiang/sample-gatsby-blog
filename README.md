@@ -13,3 +13,6 @@ gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
 * Programmatically create pages from markdown files
 * Fetch markdown data using graphql
 * PWA compliant
+
+## Demo
+[Check it out](http://sample-gatsby-blog.surge.sh/)
