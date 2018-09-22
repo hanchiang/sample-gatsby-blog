@@ -8,3 +8,8 @@ gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
 
 ## Running in development
 `gatsby develop`
+
+## Features
+* Programmatically create pages from markdown files
+* Fetch markdown data using graphql
+* PWA compliant
